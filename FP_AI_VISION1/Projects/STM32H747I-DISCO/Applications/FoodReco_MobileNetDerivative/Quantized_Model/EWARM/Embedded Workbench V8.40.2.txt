@@ -1,0 +1,2 @@
+- Open IAR toolchain (this firmware has been successfully tested with Embedded Workbench V8.40.2).
+- Open the IAR project file EWARM\Project.eww
